@@ -4,4 +4,5 @@
 
 * Clone the repo. 
 * Run revealjs presentation locally. 
-* use `./phantomjs decktape.js http://localhost:8000/ test.pdf` to convert running presentation to pdf.
+* use `./phantomjs decktape.js http://localhost:8000/ test.pdf` to convert running [presentation](google.com) to pdf.
+
